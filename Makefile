@@ -75,5 +75,10 @@ github: publish
 	ghp-import -m "Generate Pelican site" -b $(GITHUB_PAGES_BRANCH) "$(OUTPUTDIR)"
 	git push origin $(GITHUB_PAGES_BRANCH)
 
+install:
+	python -m pip install "pelican[markdown]"
+	pelican-themes -U themes/brutalist
+	python -m pip install pelican-sitemap
+	python -m pip install pelican-share-post
 
 .PHONY: html help clean regenerate serve serve-global devserver publish github
