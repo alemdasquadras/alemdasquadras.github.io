@@ -81,7 +81,7 @@
             {% else %}
             <h1><a href="/">{{ FIRST_NAME }}</a></h1>
             {% endif %}
-            <a href="#menu" id="menu-link">menu</a>
+            <a href="#menu" id="menu-link">&#8801;</a>
             <nav id="menu">
                 <ul>
                     {% if DISPLAY_PAGES_ON_MENU %}
@@ -116,13 +116,16 @@
                         {% if GITHUB %}
                         <a href="{{ GITHUB }}" target="_blank"><div class="icon-github icon"></div></a>
                         {% endif %}
-                        {% if STRAVA %}
+                        {% if INSTAGRAM %}
                         <a href="{{ INSTAGRAM }}" target="_blank"><div class="icon-instagram icon"></div></a>
+                        {% endif %}
+                        % if FACEBOOK %}
+                        <a href="{{ FACEBOOK }}" target="_blank"><div class="icon-facebook icon"></div></a>
                         {% endif %}
                         {% if STRAVA %}
                         <a href="{{ STRAVA }}" target="_blank"><div class="icon-strava icon"></div></a>
                         {% endif %}
-                        {% if STRAVA %}
+                        {% if TELEGRAM %}
                         <a href="{{ TELEGRAM }}" target="_blank"><div class="icon-telegram icon"></div></a>
                         {% endif %}
                         {% if GOODREADS %}
@@ -142,6 +145,6 @@
                     {% endif %}
                 </footer>
         {% endblock footer %}
-        </div>
+        </div>sdsdsd
 </body>
 </html>

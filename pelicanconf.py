@@ -13,6 +13,8 @@ DISPLAY_CATEGORIES_ON_MENU = True
 DISPLAY_PAGES_ON_MENU = True
 
 TWITTER = 'https://twitter.com/alemdasquadras'
+INSTAGRAM = 'https://instagram.com/alemdasquadras'
+FACEBOOK = 'https://facebook.com/alemdasquadras'
 
 PLUGIN_PATHS = ['plugins']
 PLUGINS = ['sitemap', 'gzip_cache', 'share_post']
