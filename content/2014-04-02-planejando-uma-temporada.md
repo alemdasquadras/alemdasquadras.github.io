@@ -8,7 +8,7 @@ Status: published
 
 ![Treinador na quadra]({static}/images/6.jpg "Acervo/Além das Quadras")
 
-Namaioria das vezes, ser técnico de esporte amador em geral é ser um abnegado que abre mão de outras coisas a se fazer na vida para conduzir um trabalho de formação no esporte que tanto ama. Tornamos-nos então uma mistura pessoal de experiências vividas, sonhos, estudos e aprendizagem durante o tempo de trabalho com a modalidade.
+Na maioria das vezes, ser técnico de esporte amador em geral é ser um abnegado que abre mão de outras coisas a se fazer na vida para conduzir um trabalho de formação no esporte que tanto ama. Tornamos-nos então uma mistura pessoal de experiências vividas, sonhos, estudos e aprendizagem durante o tempo de trabalho com a modalidade.
 
 No meio dessa mistura de influências que o técnico vive e constrói o seu trabalho, uma questão deve ser inabalável: o Planejamento. Este deve ser a viga que sustenta qualquer trabalho. Planejar para gerar qualidade na sua atuação, na sua informação. Existe uma diferença entre falar de improviso reagindo aos acontecimentos e preparar sua fala e ações para as situações que podem vir a acontecer. É na informação que está o caminho para a construção do seu atleta. E nesse processo de construção você transforma a informação em conhecimento. E com o conhecimento em mãos, o atleta será capaz de saber o que fazer e como fazer. Aí está a essência do técnico. Gerar informação e transformá-la em conhecimento. O planejamento certamente ajuda na buscar desse caminho.
 

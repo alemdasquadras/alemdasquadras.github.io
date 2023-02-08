@@ -17,6 +17,10 @@ $ `make install`
 
 $ `make devserver`
 
+## Build
+
+$ `make html`
+
 ## Theme
 
 [Brutalist Pelican Theme](https://brutalistpelican.com/)
